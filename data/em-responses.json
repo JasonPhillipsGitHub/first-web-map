@@ -1,6 +1,5 @@
 [
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -9,10 +8,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -21,10 +22,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -33,10 +36,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "74 Post Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -45,10 +50,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  7:25:56 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -57,10 +64,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "2307 Bathgate Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -69,10 +78,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:53:45 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-7th Alarm",
     "Location": "136-15 37th Avenue",
     "Borough": "Queens",
     "Closed Date": "",
@@ -81,10 +92,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  12:21:02 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "7th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 81st Street & Lexington Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -93,10 +106,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  10:48:12 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "vernon Blvd & Queens Plaza S",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -105,10 +120,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  4:22:30 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "1783 Westchester Ave",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -117,10 +134,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  6:36:49 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -129,10 +148,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -141,10 +162,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "129th Street & Kew Gardens Road",
     "Borough": "Queens",
     "Closed Date": "",
@@ -153,10 +176,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:21:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -165,10 +190,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:44:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Phone Outage",
     "Location": "55 Meserole Street",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -177,10 +204,12 @@
     "month": "1/2/00 0:00",
     "day": 16,
     "yeartime": "2021  10:58:18 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Phone Outage",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "315 South 4th STreet",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -189,10 +218,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  10:15:48 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "Cross Bay Blvd & 1st Road",
     "Borough": "Queens",
     "Closed Date": "",
@@ -201,10 +232,12 @@
     "month": "1/1/00 0:00",
     "day": 24,
     "yeartime": "2021  10:10:33 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "107-08 jamaica avenue",
     "Borough": "Queens",
     "Closed Date": "2/19/21 13:22",
@@ -213,10 +246,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:44:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -225,10 +260,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "107-08 jamaica avenue",
     "Borough": "Queens",
     "Closed Date": "",
@@ -237,10 +274,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:44:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -249,10 +288,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "Fire-7th Alarm",
     "Location": "136-15 37th Avenue",
     "Borough": "Queens",
     "Closed Date": "",
@@ -261,10 +302,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  12:21:02 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "7th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -273,10 +316,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:44:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-1st Alarm",
     "Location": "2628 East 18th Street",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -285,10 +330,12 @@
     "month": "1/2/00 0:00",
     "day": 12,
     "yeartime": "2021  7:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "1st Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "vernon Blvd & Queens Plaza S",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -297,10 +344,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  4:22:30 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "74 Post Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -309,10 +358,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  7:25:56 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "51 Stratford Road",
     "Borough": "Brooklyn",
     "Closed Date": "2/19/21 19:40",
@@ -321,10 +372,12 @@
     "month": "1/2/00 0:00",
     "day": 19,
     "yeartime": "2021  3:06:59 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -333,10 +386,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "241 West 108th Street",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -345,10 +400,12 @@
     "month": "1/1/00 0:00",
     "day": 4,
     "yeartime": "2021  10:25:13 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "689 Degraw Street",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -357,10 +414,12 @@
     "month": "1/2/00 0:00",
     "day": 6,
     "yeartime": "2021  5:17:20 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -369,10 +428,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "West 58th Street  & West Side Highway",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -381,10 +442,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  11:01:29 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "2307 Bathgate Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -393,10 +456,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:53:45 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "129th Street & Kew Gardens Road",
     "Borough": "Queens",
     "Closed Date": "",
@@ -405,10 +470,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:21:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Partial Collapse",
     "Location": "106 1st Place",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -417,10 +484,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  5:47:12 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Partial Collapse",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "1783 Westchester Ave",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -429,10 +498,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  6:36:49 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -441,10 +512,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Commuter Bus",
     "Location": "University Avenue  & Cross Bronx Expressway",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -453,10 +526,12 @@
     "month": "1/1/00 0:00",
     "day": 15,
     "yeartime": "2021  12:03:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Commuter Bus",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Train Ground Level",
     "Location": "WEST 31 ST & 8 AVE",
     "Borough": "MANHATTAN",
     "Closed Date": "",
@@ -465,10 +540,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  7:26:28 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Train Ground Level",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 81st Street & Lexington Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -477,10 +554,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  10:48:12 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "250 west 103 st",
     "Borough": "manhattan",
     "Closed Date": "",
@@ -489,10 +568,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  6:07:08 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Power Outage",
     "Location": "131 Throop Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "2/19/21 23:39",
@@ -501,10 +582,12 @@
     "month": "1/2/00 0:00",
     "day": 19,
     "yeartime": "2021  8:52:07 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Power Outage",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "81 Harrison Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "2/20/21 4:47",
@@ -513,10 +596,12 @@
     "month": "1/2/00 0:00",
     "day": 20,
     "yeartime": "2021  2:52:21 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -525,10 +610,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "31-05 81 st",
     "Borough": "queens",
     "Closed Date": "",
@@ -537,10 +624,12 @@
     "month": "1/2/00 0:00",
     "day": 20,
     "yeartime": "2021  12:27:04 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -549,10 +638,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -561,10 +652,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -573,10 +666,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "2307 Bathgate Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -585,10 +680,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:53:45 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "74 Post Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -597,10 +694,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  7:25:56 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -609,10 +708,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -621,10 +722,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -633,10 +736,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "2103 Honeywell Avenue",
     "Borough": "Bronx",
     "Closed Date": "1/1/21 23:45",
@@ -645,10 +750,12 @@
     "month": "1/1/00 0:00",
     "day": 1,
     "yeartime": "2021  8:39:34 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "2172 Anthony Avenue",
     "Borough": "Bronx",
     "Closed Date": "1/2/21 16:34",
@@ -657,10 +764,12 @@
     "month": "1/1/00 0:00",
     "day": 2,
     "yeartime": "2021  1:29:05 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "1570 White Plains Road",
     "Borough": "Bronx",
     "Closed Date": "1/2/21 19:27",
@@ -669,10 +778,12 @@
     "month": "1/1/00 0:00",
     "day": 2,
     "yeartime": "2021  6:14:01 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-1st Alarm",
     "Location": "900 Hazen Street",
     "Borough": "Queens",
     "Closed Date": "1/4/21 13:07",
@@ -681,10 +792,12 @@
     "month": "1/1/00 0:00",
     "day": 4,
     "yeartime": "2021  12:47:00 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "1st Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Power Outage",
     "Location": "",
     "Borough": "Brooklyn",
     "Closed Date": "1/5/21 4:03",
@@ -693,10 +806,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  3:31:17 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Power Outage",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Gas High Pressure",
     "Location": "Hope Avenue & Beethoven Street",
     "Borough": "Staten Island",
     "Closed Date": "1/5/21 10:39",
@@ -705,10 +820,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  9:21:31 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Gas High Pressure",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "241 West 108th Street",
     "Borough": "Manhattan",
     "Closed Date": "1/5/21 21:46",
@@ -717,10 +834,12 @@
     "month": "1/1/00 0:00",
     "day": 4,
     "yeartime": "2021  10:25:13 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Scaffold",
     "Location": "50 Pennsylvania Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "1/6/21 17:15",
@@ -729,10 +848,12 @@
     "month": "1/1/00 0:00",
     "day": 6,
     "yeartime": "2021  4:05:06 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Scaffold",
+    "": ""
   },
   {
-    "incidenttype": "Fire-10-76 (Commercial High Rise Fire)",
     "Location": "4 West 29 Street",
     "Borough": "Manhattan",
     "Closed Date": "1/7/21 20:02",
@@ -741,10 +862,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  7:15:18 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": 10,
+    "": "76 (Commercial High Rise Fire)"
   },
   {
-    "incidenttype": "Law Enforcement-Device",
     "Location": "2877 Barkley Avenue",
     "Borough": "Bronx",
     "Closed Date": "1/9/21 14:40",
@@ -753,10 +876,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  2:07:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Law Enforcement",
+    "incidenttype": "Device",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "242 South 4th Street",
     "Borough": "Brooklyn",
     "Closed Date": "1/9/21 19:23",
@@ -765,10 +890,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  5:25:33 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Law Enforcement-Haz Mat",
     "Location": "",
     "Borough": "Brooklyn",
     "Closed Date": "1/9/21 23:26",
@@ -777,10 +904,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  10:32:36 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Law Enforcement",
+    "incidenttype": "Haz Mat",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "Long Island Expressway & Clearview Expressway",
     "Borough": "Queens",
     "Closed Date": "1/10/21 5:55",
@@ -789,10 +918,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  3:50:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "421 84th Street",
     "Borough": "Brooklyn",
     "Closed Date": "1/10/21 12:53",
@@ -801,10 +932,12 @@
     "month": "1/1/00 0:00",
     "day": 10,
     "yeartime": "2021  10:37:33 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Explosion",
     "Location": "126 East 103 Street",
     "Borough": "New York",
     "Closed Date": "1/11/21 5:34",
@@ -813,10 +946,12 @@
     "month": "1/1/00 0:00",
     "day": 11,
     "yeartime": "2021  3:35:38 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Explosion",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Gas High Pressure",
     "Location": "387 FRanklin Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "1/11/21 11:24",
@@ -825,10 +960,12 @@
     "month": "1/1/00 0:00",
     "day": 11,
     "yeartime": "2021  10:16:52 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Gas High Pressure",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "297 Monroe Street",
     "Borough": "Brooklyn",
     "Closed Date": "1/12/21 0:26",
@@ -837,10 +974,12 @@
     "month": "1/1/00 0:00",
     "day": 11,
     "yeartime": "2021  7:58:25 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Gas High Pressure",
     "Location": "Astoria Boulevard & 49th Street",
     "Borough": "Queens",
     "Closed Date": "1/13/21 14:11",
@@ -849,10 +988,12 @@
     "month": "1/1/00 0:00",
     "day": 13,
     "yeartime": "2021  1:29:47 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Gas High Pressure",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Haz Mat",
     "Location": "221-15 Hempstead Avenue",
     "Borough": "Queens",
     "Closed Date": "1/14/21 22:35",
@@ -861,10 +1002,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  8:44:05 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Haz Mat",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Commuter Bus",
     "Location": "University Avenue  & Cross Bronx Expressway",
     "Borough": "Bronx",
     "Closed Date": "1/15/21 9:46",
@@ -873,10 +1016,12 @@
     "month": "1/1/00 0:00",
     "day": 15,
     "yeartime": "2021  12:03:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Commuter Bus",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Payload Truck",
     "Location": "West Shore Expressway  & Korean War Veterans Parkway",
     "Borough": "Staten Isalnd",
     "Closed Date": "1/15/21 12:50",
@@ -885,10 +1030,12 @@
     "month": "1/1/00 0:00",
     "day": 15,
     "yeartime": "2021  8:09:48 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Payload Truck",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Other",
     "Location": "150 55 Street",
     "Borough": "Brooklyn",
     "Closed Date": "1/15/21 23:30",
@@ -897,10 +1044,12 @@
     "month": "1/1/00 0:00",
     "day": 15,
     "yeartime": "2021  9:02:06 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 175th Street  & Jerome Avenue",
     "Borough": "Bronx",
     "Closed Date": "1/17/21 3:56",
@@ -909,10 +1058,12 @@
     "month": "1/1/00 0:00",
     "day": 7,
     "yeartime": "2021  3:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Sensitive Location",
     "Location": "1470 Bedford Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "1/18/21 3:33",
@@ -921,10 +1072,12 @@
     "month": "1/1/00 0:00",
     "day": 18,
     "yeartime": "2021  12:58:58 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Sensitive Location",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "37-51 86th Street",
     "Borough": "Queens",
     "Closed Date": "1/18/21 9:51",
@@ -933,10 +1086,12 @@
     "month": "1/1/00 0:00",
     "day": 18,
     "yeartime": "2021  7:57:18 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "425 E 238 Street",
     "Borough": "bronx",
     "Closed Date": "1/19/21 17:34",
@@ -945,10 +1100,12 @@
     "month": "1/1/00 0:00",
     "day": 19,
     "yeartime": "2021  4:15:49 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "74 Post Avenue",
     "Borough": "Manhattan",
     "Closed Date": "1/20/21 11:32",
@@ -957,10 +1114,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  7:25:56 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Car",
     "Location": "East 96th Street  & FDR Drive",
     "Borough": "Brooklyn",
     "Closed Date": "1/21/21 13:59",
@@ -969,10 +1128,12 @@
     "month": "1/1/00 0:00",
     "day": 21,
     "yeartime": "2021  1:54:48 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Car",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "Long Island Expressway at Clearview Expressway",
     "Borough": "queens",
     "Closed Date": "1/21/21 20:46",
@@ -981,10 +1142,12 @@
     "month": "1/1/00 0:00",
     "day": 21,
     "yeartime": "2021  3:20:59 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Law Enforcement-Suspicious Package",
     "Location": "550 Hamilton Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "1/22/21 12:06",
@@ -993,10 +1156,12 @@
     "month": "1/1/00 0:00",
     "day": 22,
     "yeartime": "2021  8:34:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Law Enforcement",
+    "incidenttype": "Suspicious Package",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Scaffold",
     "Location": "206 East 59th Street",
     "Borough": "Manhattan",
     "Closed Date": "1/23/21 17:29",
@@ -1005,10 +1170,12 @@
     "month": "1/1/00 0:00",
     "day": 23,
     "yeartime": "2021  10:04:41 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Scaffold",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "607 East 3rd Street",
     "Borough": "Brooklyn",
     "Closed Date": "1/24/21 16:57",
@@ -1017,10 +1184,12 @@
     "month": "1/1/00 0:00",
     "day": 24,
     "yeartime": "2021  3:01:54 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "1962 85h street",
     "Borough": "Brooklyn",
     "Closed Date": "1/25/21 13:35",
@@ -1029,10 +1198,12 @@
     "month": "1/1/00 0:00",
     "day": 25,
     "yeartime": "2021  9:22:46 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "330 East 61st Street",
     "Borough": "Manhattan",
     "Closed Date": "1/25/21 15:52",
@@ -1041,10 +1212,12 @@
     "month": "1/1/00 0:00",
     "day": 25,
     "yeartime": "2021  2:57:01 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "Cross Bay Blvd & 1st Road",
     "Borough": "Queens",
     "Closed Date": "1/26/21 7:25",
@@ -1053,10 +1226,12 @@
     "month": "1/1/00 0:00",
     "day": 24,
     "yeartime": "2021  10:10:33 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Other",
     "Location": "24-52 92 st",
     "Borough": "Queens",
     "Closed Date": "1/26/21 15:42",
@@ -1065,10 +1240,12 @@
     "month": "1/1/00 0:00",
     "day": 26,
     "yeartime": "2021  9:01:38 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "33-61 Farrington Street",
     "Borough": "Queens",
     "Closed Date": "1/27/21 3:26",
@@ -1077,10 +1254,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:10:30 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "267 Flatbush Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "1/27/21 18:33",
@@ -1089,10 +1268,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  12:43:11 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-1st Alarm",
     "Location": "1056 Boynton Avenue",
     "Borough": "Bronx",
     "Closed Date": "1/28/21 22:51",
@@ -1101,10 +1282,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  9:30:26 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "1st Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "217-10 Hillside Avenue",
     "Borough": "Queens",
     "Closed Date": "1/17/21 16:49",
@@ -1113,10 +1296,12 @@
     "month": "1/1/00 0:00",
     "day": 17,
     "yeartime": "2021  3:40:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "165 East 170th Street",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -1125,10 +1310,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  4:48:21 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Train Ground Level",
     "Location": "WEST 31 ST & 8 AVE",
     "Borough": "MANHATTAN",
     "Closed Date": "1/29/21 8:41",
@@ -1137,10 +1324,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  7:26:28 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Train Ground Level",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "vernon Blvd & Queens Plaza S",
     "Borough": "Brooklyn",
     "Closed Date": "1/29/21 13:03",
@@ -1149,10 +1338,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  4:22:30 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "512 beach 130 st",
     "Borough": "queens",
     "Closed Date": "1/29/21 13:20",
@@ -1161,10 +1352,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  10:08:40 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-1st Alarm",
     "Location": "1122 franklin avenue",
     "Borough": "Bronx",
     "Closed Date": "1/29/21 14:50",
@@ -1173,10 +1366,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  1:56:58 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "1st Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "1783 Westchester Ave",
     "Borough": "Bronx",
     "Closed Date": "1/29/21 17:57",
@@ -1185,10 +1380,12 @@
     "month": "1/1/00 0:00",
     "day": 28,
     "yeartime": "2021  6:36:49 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Other",
     "Location": "38-54 Vernon Bouelvard",
     "Borough": "Queens",
     "Closed Date": "1/29/21 19:53",
@@ -1197,10 +1394,12 @@
     "month": "1/1/00 0:00",
     "day": 29,
     "yeartime": "2021  6:57:22 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "357 West 115th Street",
     "Borough": "Manhattan",
     "Closed Date": "1/30/21 13:15",
@@ -1209,10 +1408,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  7:54:48 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "317 Beach 86th Street",
     "Borough": "Queens",
     "Closed Date": "1/30/21 15:49",
@@ -1221,10 +1422,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  10:41:42 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 75th Street  & 2nd Avenue",
     "Borough": "Manhattan",
     "Closed Date": "1/30/21 20:04",
@@ -1233,10 +1436,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  8:50:36 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "107-35 164th Street",
     "Borough": "Queens",
     "Closed Date": "2/1/21 1:16",
@@ -1245,10 +1450,12 @@
     "month": "1/1/00 0:00",
     "day": 31,
     "yeartime": "2021  7:18:40 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "East 81st Street & Lexington Avenue",
     "Borough": "Manhattan",
     "Closed Date": "2/1/21 11:59",
@@ -1257,10 +1464,12 @@
     "month": "1/1/00 0:00",
     "day": 30,
     "yeartime": "2021  10:48:12 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "184 Nagle Ave",
     "Borough": "manhattan",
     "Closed Date": "2/1/21 16:38",
@@ -1269,10 +1478,12 @@
     "month": "1/2/00 0:00",
     "day": 1,
     "yeartime": "2021  3:16:21 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Partial Collapse",
     "Location": "106 1st Place",
     "Borough": "Brooklyn",
     "Closed Date": "2/2/21 11:12",
@@ -1281,10 +1492,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  5:47:12 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Partial Collapse",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Manhole",
     "Location": "2769 University Avenue",
     "Borough": "Bronx",
     "Closed Date": "2/2/21 15:44",
@@ -1293,10 +1506,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  9:29:54 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Manhole",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Other",
     "Location": "Bruckner Expressway  & Country Road",
     "Borough": "Brooklyn",
     "Closed Date": "2/2/21 16:12",
@@ -1305,10 +1520,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  2:37:37 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-Chemical",
     "Location": "95 Fountain Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "2/2/21 16:34",
@@ -1317,10 +1534,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  3:35:13 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "Chemical",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "250 west 103 st",
     "Borough": "manhattan",
     "Closed Date": "2/2/21 22:43",
@@ -1329,10 +1548,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  6:07:08 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Gas Service Line",
     "Location": "127 East 22nd Street",
     "Borough": "Manhattan",
     "Closed Date": "2/3/21 10:13",
@@ -1341,10 +1562,12 @@
     "month": "1/2/00 0:00",
     "day": 3,
     "yeartime": "2021  10:05:29 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Gas Service Line",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Power Outage",
     "Location": "425 Cumberland Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/3/21 19:29",
@@ -1353,10 +1576,12 @@
     "month": "1/2/00 0:00",
     "day": 3,
     "yeartime": "2021  9:38:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Power Outage",
+    "": ""
   },
   {
-    "incidenttype": "Fire-10-77 (Residential High Rise Fire)",
     "Location": "19-25 Seagirt Boulevard",
     "Borough": "Queens",
     "Closed Date": "2/3/21 19:40",
@@ -1365,10 +1590,12 @@
     "month": "1/2/00 0:00",
     "day": 3,
     "yeartime": "2021  6:40:07 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": 10,
+    "": "77 (Residential High Rise Fire)"
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "315 South 4th STreet",
     "Borough": "Brooklyn",
     "Closed Date": "2/3/21 19:53",
@@ -1377,10 +1604,12 @@
     "month": "1/2/00 0:00",
     "day": 2,
     "yeartime": "2021  10:15:48 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Gas Service Line",
     "Location": "127 East 22 St",
     "Borough": "Manhattan",
     "Closed Date": "2/3/21 21:11",
@@ -1389,10 +1618,12 @@
     "month": "1/2/00 0:00",
     "day": 3,
     "yeartime": "2021  9:59:50 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Gas Service Line",
+    "": ""
   },
   {
-    "incidenttype": "Fire-7th Alarm",
     "Location": "136-15 37th Avenue",
     "Borough": "Queens",
     "Closed Date": "2/4/21 10:51",
@@ -1401,10 +1632,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  12:21:02 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "7th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Manhole",
     "Location": "23-32 26th Street",
     "Borough": "Queens",
     "Closed Date": "2/4/21 18:43",
@@ -1413,10 +1646,12 @@
     "month": "1/2/00 0:00",
     "day": 4,
     "yeartime": "2021  5:09:17 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Manhole",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Haz Mat",
     "Location": "2401 Newkirk Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "2/5/21 19:41",
@@ -1425,10 +1660,12 @@
     "month": "1/2/00 0:00",
     "day": 5,
     "yeartime": "2021  11:45:48 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Haz Mat",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Manhole",
     "Location": "1871 Adam Clayton Powell Junior Boulevard",
     "Borough": "Manhattan",
     "Closed Date": "2/5/21 20:26",
@@ -1437,10 +1674,12 @@
     "month": "1/2/00 0:00",
     "day": 5,
     "yeartime": "2021  2:41:47 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Manhole",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "Major Deegan Expressway  & Henry Hudson Parkway",
     "Borough": "Bronx",
     "Closed Date": "2/6/21 2:10",
@@ -1449,10 +1688,12 @@
     "month": "1/2/00 0:00",
     "day": 5,
     "yeartime": "2021  11:55:40 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "689 Degraw Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/6/21 16:14",
@@ -1461,10 +1702,12 @@
     "month": "1/2/00 0:00",
     "day": 6,
     "yeartime": "2021  5:17:20 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "1103 East 215 Street",
     "Borough": "Bronx",
     "Closed Date": "2/7/21 13:32",
@@ -1473,10 +1716,12 @@
     "month": "1/2/00 0:00",
     "day": 7,
     "yeartime": "2021  11:35:47 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "1565 East 12th Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/8/21 9:52",
@@ -1485,10 +1730,12 @@
     "month": "1/2/00 0:00",
     "day": 8,
     "yeartime": "2021  8:03:59 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "2307 Bathgate Avenue",
     "Borough": "Bronx",
     "Closed Date": "2/9/21 12:18",
@@ -1497,10 +1744,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:53:45 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "1713 Madison Street",
     "Borough": "Queens",
     "Closed Date": "2/9/21 14:44",
@@ -1509,10 +1758,12 @@
     "month": "1/2/00 0:00",
     "day": 9,
     "yeartime": "2021  1:42:31 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "31-17 Broadway",
     "Borough": "Queens",
     "Closed Date": "2/9/21 17:35",
@@ -1521,10 +1772,12 @@
     "month": "1/2/00 0:00",
     "day": 9,
     "yeartime": "2021  3:44:23 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Sensitive Location",
     "Location": "141 West 110 Street",
     "Borough": "Manhattan",
     "Closed Date": "2/9/21 21:24",
@@ -1533,10 +1786,12 @@
     "month": "1/2/00 0:00",
     "day": 9,
     "yeartime": "2021  8:48:16 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Sensitive Location",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "1237 Findlay Avenue",
     "Borough": "Bronx",
     "Closed Date": "2/9/21 23:10",
@@ -1545,10 +1800,12 @@
     "month": "1/2/00 0:00",
     "day": 9,
     "yeartime": "2021  9:08:01 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "36-46 170th Street",
     "Borough": "queens",
     "Closed Date": "2/10/21 5:55",
@@ -1557,10 +1814,12 @@
     "month": "1/2/00 0:00",
     "day": 10,
     "yeartime": "2021  4:42:45 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "57 Grove Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/10/21 23:08",
@@ -1569,10 +1828,12 @@
     "month": "1/2/00 0:00",
     "day": 10,
     "yeartime": "2021  3:14:46 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-1st Alarm",
     "Location": "2628 East 18th Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/12/21 8:43",
@@ -1581,10 +1842,12 @@
     "month": "1/2/00 0:00",
     "day": 12,
     "yeartime": "2021  7:23:51 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "1st Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "133-03 Sutter Avenue",
     "Borough": "Queens",
     "Closed Date": "2/12/21 15:20",
@@ -1593,10 +1856,12 @@
     "month": "1/2/00 0:00",
     "day": 12,
     "yeartime": "2021  1:27:30 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Aviation-Large Aircraft",
     "Location": "JFK Expressway & Van Wyck Expressway",
     "Borough": "Queens",
     "Closed Date": "2/13/21 19:56",
@@ -1605,10 +1870,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  7:18:36 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Aviation",
+    "incidenttype": "Large Aircraft",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Sidewalk Shed",
     "Location": "646 11th Avenue",
     "Borough": "Manhattan",
     "Closed Date": "2/13/21 23:58",
@@ -1617,10 +1884,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  8:40:41 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Sidewalk Shed",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Collapse",
     "Location": "393 Atlantic Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "2/14/21 12:58",
@@ -1629,10 +1898,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  11:52:41 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Collapse",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "441 East 180th Street",
     "Borough": "Bronx",
     "Closed Date": "2/14/21 16:15",
@@ -1641,10 +1912,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  2:04:23 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-3rd Alarm",
     "Location": "4293 Katonah Avenue",
     "Borough": "Bronx",
     "Closed Date": "2/15/21 13:27",
@@ -1653,10 +1926,12 @@
     "month": "1/2/00 0:00",
     "day": 15,
     "yeartime": "2021  9:03:40 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "3rd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "HazMat-High Carbon Monoxide",
     "Location": "129th Street & Kew Gardens Road",
     "Borough": "Queens",
     "Closed Date": "2/15/21 22:53",
@@ -1665,10 +1940,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:21:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "HazMat",
+    "incidenttype": "High Carbon Monoxide",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1677,10 +1954,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-2nd Alarm",
     "Location": "456 West 148th Street",
     "Borough": "Manhattan",
     "Closed Date": "2/17/21 22:17",
@@ -1689,10 +1968,12 @@
     "month": "1/2/00 0:00",
     "day": 17,
     "yeartime": "2021  8:06:18 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "2nd Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Phone Outage",
     "Location": "55 Meserole Street",
     "Borough": "Brooklyn",
     "Closed Date": "2/18/21 4:12",
@@ -1701,10 +1982,12 @@
     "month": "1/2/00 0:00",
     "day": 16,
     "yeartime": "2021  10:58:18 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Phone Outage",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "West 58th Street  & West Side Highway",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -1713,10 +1996,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  11:01:29 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Car",
     "Location": "Gowanus Expressway & Belt Parkway",
     "Borough": "Brooklyn",
     "Closed Date": "2/18/21 9:02",
@@ -1725,10 +2010,12 @@
     "month": "1/2/00 0:00",
     "day": 18,
     "yeartime": "2021  8:11:15 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Car",
+    "": ""
   },
   {
-    "incidenttype": "Rescue-Technical",
     "Location": "133 East Clarke Place",
     "Borough": "Bronx",
     "Closed Date": "2/18/21 15:40",
@@ -1737,10 +2024,12 @@
     "month": "1/2/00 0:00",
     "day": 18,
     "yeartime": "2021  9:56:49 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Rescue",
+    "incidenttype": "Technical",
+    "": ""
   },
   {
-    "incidenttype": "Law Enforcement-Device",
     "Location": "139-01 Glassboro Avenue",
     "Borough": "Queens",
     "Closed Date": "2/18/21 15:43",
@@ -1749,10 +2038,12 @@
     "month": "1/2/00 0:00",
     "day": 18,
     "yeartime": "2021  9:44:27 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Law Enforcement",
+    "incidenttype": "Device",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Explosion",
     "Location": "1520 Paulding Avenue",
     "Borough": "Bronx",
     "Closed Date": "2/18/21 19:15",
@@ -1761,10 +2052,12 @@
     "month": "1/2/00 0:00",
     "day": 18,
     "yeartime": "2021  3:45:49 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Explosion",
+    "": ""
   },
   {
-    "incidenttype": "Fire-Other",
     "Location": "Penn Station",
     "Borough": "Manhattan",
     "Closed Date": "1/31/21 13:42",
@@ -1773,10 +2066,12 @@
     "month": "1/1/00 0:00",
     "day": 31,
     "yeartime": "2021  9:04:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "West 58th Street  & West Side Highway",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -1785,10 +2080,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  11:01:29 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1797,10 +2094,12 @@
     "month": "1/2/00 0:00",
     "day": 14,
     "yeartime": "2021  7:44:11 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Crane",
     "Location": "2 Blue Slip",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1809,10 +2108,12 @@
     "month": "1/2/00 0:00",
     "day": 11,
     "yeartime": "2021  4:20:35 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Crane",
+    "": ""
   },
   {
-    "incidenttype": "Transportation-Other",
     "Location": "West 58th Street  & West Side Highway",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -1821,10 +2122,12 @@
     "month": "1/2/00 0:00",
     "day": 13,
     "yeartime": "2021  11:01:29 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Transportation",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1833,10 +2136,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-7th Alarm",
     "Location": "136-15 37th Avenue",
     "Borough": "Queens",
     "Closed Date": "1/10/21 20:33",
@@ -1845,10 +2150,12 @@
     "month": "1/1/00 0:00",
     "day": 9,
     "yeartime": "2021  12:21:02 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "7th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Structural-Other",
     "Location": "2307 Bathgate Avenue",
     "Borough": "Bronx",
     "Closed Date": "",
@@ -1857,10 +2164,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  2:53:45 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Structural",
+    "incidenttype": "Other",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1869,10 +2178,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Utility-Water Main",
     "Location": "West 100th Street & Central Park West",
     "Borough": "Manhattan",
     "Closed Date": "1/28/21 4:55",
@@ -1881,10 +2192,12 @@
     "month": "1/1/00 0:00",
     "day": 27,
     "yeartime": "2021  6:18:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Utility",
+    "incidenttype": "Water Main",
+    "": ""
   },
   {
-    "incidenttype": "Fire-5th Alarm",
     "Location": "244 Montrose Avenue",
     "Borough": "Brooklyn",
     "Closed Date": "",
@@ -1893,10 +2206,12 @@
     "month": "1/1/00 0:00",
     "day": 14,
     "yeartime": "2021  6:29:09 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "5th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Fire-4th Alarm",
     "Location": "74 Post Avenue",
     "Borough": "Manhattan",
     "Closed Date": "",
@@ -1905,10 +2220,12 @@
     "month": "1/1/00 0:00",
     "day": 5,
     "yeartime": "2021  7:25:56 PM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Fire",
+    "incidenttype": "4th Alarm",
+    "": ""
   },
   {
-    "incidenttype": "Law Enforcement-Other",
     "Location": "Queens Blvd & 56th Avenue",
     "Borough": "Queens",
     "Closed Date": "1/4/21 13:35",
@@ -1917,6 +2234,9 @@
     "month": "1/1/00 0:00",
     "day": 4,
     "yeartime": "2021  8:54:24 AM",
-    "year": 2021
+    "year": 2021,
+    "incidentcategory": "Law Enforcement",
+    "incidenttype": "Other",
+    "": ""
   }
 ]

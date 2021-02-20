@@ -10,41 +10,8 @@ var map = new mapboxgl.Map({
   var nav = new mapboxgl.NavigationControl();
   map.addControl(nav, 'top-left');
 
-// Adding simple marker to the map
-var marker = new mapboxgl.Marker({
-  color: 'red'
-})
-    .setLngLat([-74.006, 40.7128])
-    .setPopup(new mapboxgl.Popup().setHTML("<h1>City Hall!</h1>")) // add popup
-    .addTo(map);
 
 
-// practice data
-
-var dummyData =[
-  {
-    name: 'The Pond',
-    point: [-73.974073,40.765843]
-  },
-  {
-    name: 'Strawberry Fields',
-    point: [-73.974802,40.775782]
-  },
-  {
-    name: 'Dalehead Arch',
-    point: [-73.978578,40.770726]
-  }
-]
-
-dummyData.forEach(function(data) {
-  console.log(data.name, data.point)
-
-  new mapboxgl.Marker()
-      .setLngLat(data.point)
-      .setPopup(new mapboxgl.Popup().setHTML(`<h1> ${data.name} </h1>`)) // add popup
-      .addTo(map);
-
-})
 
 // Add EM Responses
 
@@ -56,13 +23,46 @@ $.getJSON('./data/em-responses.json', function(EmResponseData){
 
 var html = `
 <div>
-    <h4>Incident Type:  ${response.incidenttype}</h4>
+    <h4>Incident Category:  ${response.incidentcategory}</h4>
+        <div> Type: ${response.incidenttype}</div>
         <div> Location: ${response.Location}</div>
         <div> Borough: ${response.Borough}</div>
 
 </div>
 `
-    new mapboxgl.Marker()
+
+// Assign the color of the marker by type of response
+var color = 'black'
+
+if (response.incidentcategory === 'Aviation'){
+  color = '#8fa5c9'
+}
+
+if (response.incidentcategory === 'Fire'){
+  color = '#e36505'
+}
+
+if (response.incidentcategory === 'HazMat'){
+  color = '#f2e127'
+}
+if (response.incidentcategory === 'Structural'){
+  color = '#472d2f'
+}
+if (response.incidentcategory === 'Transportation'){
+  color = '#5ec4a2'
+}
+if (response.incidentcategory === 'Law Enforcement'){
+  color = '#091c87'
+}
+if (response.incidentcategory === 'Rescue'){
+  color = '#870909'
+}
+if (response.incidentcategory === 'Utility'){
+  color = '#868687'
+}
+    new mapboxgl.Marker({
+      color: color
+    })
         .setLngLat([response.Longitude,response.Latitude])
          .setPopup(new mapboxgl.Popup().setHTML(html)) // add popup
         .addTo(map);
