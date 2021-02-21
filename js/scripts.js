@@ -2,9 +2,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoianA1NDg1IiwiYSI6ImNrM2Y3bTN5cDAxemEzaG5ubjM1N
 
 var map = new mapboxgl.Map({
     container: 'mapContainer', // container ID
-    style: 'mapbox://styles/mapbox/streets-v11', // style URL
-    center: [-73.974802,40.775782], // starting position [lng, lat]
-    zoom: 12 // starting zoom
+    style: 'mapbox://styles/mapbox/dark-v10', // style URL
+    center: [-73.925879,40.747927], // starting position [lng, lat]
+    zoom: 10 // starting zoom
 });
 // add the navigation control
   var nav = new mapboxgl.NavigationControl();
@@ -27,7 +27,8 @@ var html = `
         <div> Type: ${response.incidenttype}</div>
         <div> Location: ${response.Location}</div>
         <div> Borough: ${response.Borough}</div>
-
+        <div> Date: ${response.month}/${response.day}/${response.year}</div>
+        <div> Time: ${response.time}  ${response.ampm}</div>
 </div>
 `
 
