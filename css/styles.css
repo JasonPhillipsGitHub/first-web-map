@@ -1,5 +1,5 @@
 body{
-  background-color: steelblue;
+  background-color: #0A5796;
 }
 
 .headerimage{
@@ -18,7 +18,12 @@ body{
   font-size: 8px;
 }
 
-
+.calltoaction{
+  font-weight: bold;
+  font-style: italic;
+  color: #AA131B;
+  font-size: 18px;
+}
 
 
 
