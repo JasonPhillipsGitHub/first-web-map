@@ -1,5 +1,34 @@
+body{
+  background-color: steelblue;
+}
+
+.headerimage{
+  text-align: center;
+}
+
+.headingbar{
+    width: 75%;
+  text-align: center;
+  margin:auto;
+  background-color: white;
+
+}
+
+.warning{
+  font-size: 8px;
+}
+
+
+.mapContainer{
+  position: relative;
+}
+
+
+
+
 .legend{
-  float:right;
+position: absolute;
+float:right;
 
   background-color: white;
   opacity: 85%;
@@ -9,6 +38,19 @@
   margin:auto;
 
 
+
+}
+
+
+.column {
+float: left;
+width: 40%;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
 }
 
 .legenditem{
@@ -40,27 +82,4 @@ p{
 .responsetypes{
   font-size: 11px;
   line-height: 8px;
-}
-
-.headingbar{
-    width: 75%;
-  text-align: center;
-  margin:auto;
-  background-color: white;
-
-
-
-}
-
-body{
-  background-color: steelblue;
-}
-
-
-.warning{
-  font-size: 8px;
-}
-
-.headerimage{
-  text-align: center;
 }

@@ -29,69 +29,52 @@
     </div>
 
 
-
-
-  <div id='mapContainer'
+<div class = "mapContainer" id='mapContainer'
   style='width: 75%;
   height: 600px;
   background-color: steelblue;
-  margin: 0 auto;'></div>
+  margin: 0 auto;'>
 
-<!-- Code for legend is from a tutorial on making basic columns https://www.educative.io/edpresso/how-to-create-columns-in-html-->
-  <div class= 'legend' >
-    <head>
-    <style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 40%;
-    }
-
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-    </style>
- </head>
- <body>
-    <div class="row">
-        <div class="column" >
-            <p class = "legendtitle">Legend</p>
-                <div class = "legenditem" style = 'background-color:#8fa5c9;'></div>
-                <div class = "legenditem" style = 'background-color:#e36505;'></div>
-                <div class = "legenditem" style = 'background-color: #f2e127;'></div>
-                <div class = "legenditem" style = 'background-color: #472d2f;'></div>
-                <div class = "legenditem" style = 'background-color: #5ec4a2;'></div>
-                <div class = "legenditem" style = 'background-color: #091c87;'></div>
-                <div class = "legenditem" style = 'background-color: #870909;'></div>
-                <div class = "legenditem" style = 'background-color: #868687;'></div>
+  <!-- Code for legend is from a tutorial on making basic columns https://www.educative.io/edpresso/how-to-create-columns-in-html-->
+    <div class= 'legend' >
+          <div class="row">
+                      <div class="column" >
+                          <p class = "legendtitle">Legend</p>
+                              <div class = "legenditem" style = 'background-color:#8fa5c9;'></div>
+                              <div class = "legenditem" style = 'background-color:#e36505;'></div>
+                              <div class = "legenditem" style = 'background-color: #f2e127;'></div>
+                              <div class = "legenditem" style = 'background-color: #472d2f;'></div>
+                              <div class = "legenditem" style = 'background-color: #5ec4a2;'></div>
+                              <div class = "legenditem" style = 'background-color: #091c87;'></div>
+                              <div class = "legenditem" style = 'background-color: #870909;'></div>
+                              <div class = "legenditem" style = 'background-color: #868687;'></div>
 
 
-        </div>
-        <div class="column" >
-          <p class = "legendcat">Response Type</p>
+                      </div>
+                      <div class="column" >
+                        <p class = "legendcat">Response Type</p>
 
-            <p class = "responsetypes">
-              Aviation<br/><br/>
-               Fire<br/><br/>
-              HazMat<br/><br/>
-              Structural <br/><br/>
-              Transportation      <br/><br/>
-              Law Inforcement <br/><br/>
-              Rescue     <br/><br/>
-              Utility     <br/><br/>
+                          <p class = "responsetypes">
+                            Aviation<br/><br/>
+                             Fire<br/><br/>
+                            HazMat<br/><br/>
+                            Structural <br/><br/>
+                            Transportation      <br/><br/>
+                            Law Inforcement <br/><br/>
+                            Rescue     <br/><br/>
+                            Utility     <br/><br/>
 
-            </p>
+                          </p>
 
-        </div>
+                      </div>
+          </div>
+
+
     </div>
- </body>
 
-  </div>
+
+</div>
+
 
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js'></script>
   <script
