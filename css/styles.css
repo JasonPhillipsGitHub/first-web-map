@@ -19,26 +19,24 @@ body{
 }
 
 
-.mapContainer{
-  position: relative;
-}
-
 
 
 
 .legend{
-position: absolute;
-float:right;
-
   background-color: white;
   opacity: 85%;
   height: 160px;
   width: 235px;
   border: 2px;
-  margin:auto;
 
+  position: absolute;
+    top: 0;
+    left: 710px;
+    z-index: 2;
+}
 
-
+#mapContainer{
+  position: relative;
 }
 
 
